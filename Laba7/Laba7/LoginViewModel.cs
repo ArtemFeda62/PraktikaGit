@@ -17,7 +17,7 @@ namespace Laba7
         private string _password;
         private string _phoneNumber;
         private int? _code;
-        private bool _isLoading = false;
+        private bool _isLoading = true;
         private double _progress;
         private string _errorMessage;
 
