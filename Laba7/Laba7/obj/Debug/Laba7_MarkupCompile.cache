@@ -10,9 +10,15 @@ none
 false
 DEBUG;TRACE
 Z:\PraktikaGit\Laba7\Laba7\App.xaml
+<<<<<<< HEAD
 31807507815
 
 11623574647
+=======
+2-53060476
+
+10-759904430
+>>>>>>> remotes/origin/main
 13-1310406943
 MainWindow.xaml;CodeWindow.xaml;Window1.xaml;
 
